@@ -3,12 +3,12 @@ import Link from 'next/link'
 
 const Header = () => {
   return (
-    <div>
+    <div className="bg-white">
       <header>
       <nav className="flex items-center justify-between p-6 container mx-auto">
         {/* <!-- Logo --> */}
         <Link href="/" className="relative text-2xl font-extrabold">
-          <span className="absolute w-10 h-2 bg-green-400 bottom-1 right-0"></span><span className="relative z-10">SarafEmas.net</span>
+          <span className="absolute w-10 h-2 bg-green-400 bottom-1 right-0"></span><span className="relative z-10">Saraf<span className="text-emerald-400">Emas</span>.net</span>
         </Link>
 
         {/* <!-- Menu items --> */}

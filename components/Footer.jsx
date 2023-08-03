@@ -4,7 +4,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <div>
-      <footer className="bg-white" aria-labelledby="footer-heading">
+      <footer className="bg-green-50" aria-labelledby="footer-heading">
       <h2 id="footer-heading" className="sr-only">Footer</h2>
       <div className="px-4 py-12 mx-auto max-w-7xl sm:px-6 lg:px-16">
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
@@ -12,7 +12,7 @@ const Footer = () => {
             <Link href="/" className="relative text-2xl font-extrabold">
               <span
                 className="absolute w-10 h-2 bg-green-400 bottom-1 right-0"
-              ></span><span className="relative z-10">Agencia</span>
+              ></span><span className="relative z-10">Saraf<span className="text-emerald-400">Emas</span>.net</span>
             </Link>
           </div>
           <div className="grid grid-cols-2 gap-8 mt-12 xl:mt-0 xl:col-span-2">
