@@ -15,7 +15,7 @@ const Body = () => {
             <h1
               className="text-green-600 md:text-6xl lg:text-8xl mb-8 text-4xl font-extrabold leading-none tracking-tighter"
             >
-              <span className="text-gray-900">Saraf Emas</span> Membantu
+              <span className="text-gray-900">Saraf Emas</span> Membantu Menyembuhkan
             </h1>
             <p className="mb-8 leading-relaxed text-left text-gray-800 text-1xl">
               Sakit Pada Saraf, Sendi, Pinggang, Angin Ahmar, Saraf Tersepit, Slip Disc & Juga Untuk Bantu Hilangkan Rasa Kebas, Semut & Sakit Mencucuk-cucuk Pada Jari Kaki & Tangan
