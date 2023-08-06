@@ -4,6 +4,8 @@ import React from "react";
 const VideoWistia = () => {
 
   const url = "https://fast.wistia.com/embed/iframe/ow8he6t5ri?videoFoam=false&playerColor=7AB85C";
+  const videoWidth =  "100%";
+  const videoHeight = "350px";
   
 
   return (
@@ -11,32 +13,32 @@ const VideoWistia = () => {
       <div className="mb-4 p-2">
         <Iframe
           url={url}
-          width="100%"
-          height="316px"
+          width={videoWidth}
+          height={videoHeight}
           position="relative"
         />
       </div>
       <div className="mb-4 p-2">
         <Iframe
           url={url}
-          width="100%"
-          height="316px"
+          width={videoWidth}
+          height={videoHeight}
           position="relative"
         />
       </div>
       <div className="mb-4 p-2">
         <Iframe
           url={url}
-          width="100%"
-          height="316px"
+          width={videoWidth}
+          height={videoHeight}
           position="relative"
         />
       </div>
       <div className="mb-4 p-2">
         <Iframe
           url={url}
-          width="100%"
-          height="316px"
+          width={videoWidth}
+          height={videoHeight}
           position="relative"
         />
       </div>

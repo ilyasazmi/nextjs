@@ -27,7 +27,7 @@ const Body = () => {
           <div className="lg:w-5/6 lg:max-w-lg xl:mt-0 w-full mt-12">
             <div className="relative">
               <Image
-                src="./img_69.png"
+                src="/img_69.png"
                 width={500}
                 height={500}
                 priority={true}    
@@ -357,7 +357,7 @@ const Body = () => {
                     className="inline-flex items-center justify-center flex-shrink-0 w-24 h-24 mx-auto mb-5 text-green-700 rounded-xl"
                   >
                     <Image 
-                      src="./lutut.png"
+                      src="/lutut.png"
                       width={150}
                       height={150}    
                       alt="saraf emas"
@@ -376,7 +376,7 @@ const Body = () => {
                   <div
                     className="inline-flex items-center justify-center flex-shrink-0 w-24 h-24 mx-auto mb-5 text-green-700 rounded-xl"
                   >
-                    <Image src="./stroke.png" width={150}
+                    <Image src="/stroke.png" width={150}
                       height={150} alt="sakit stroke"/>
                   </div>
                   <h3
@@ -392,7 +392,7 @@ const Body = () => {
                   <div
                     className="inline-flex items-center justify-center flex-shrink-0 w-24 h-24 mx-auto mb-5 text-green-700 rounded-xl"
                   >
-                    <Image src="./gout.png" width={150}
+                    <Image src="/gout.png" width={150}
                       height={150} alt="sakit gout" />
                   </div>
                   <h3
@@ -408,7 +408,7 @@ const Body = () => {
                   <div
                     className="inline-flex items-center justify-center flex-shrink-0 w-24 h-24 mx-auto mb-5 text-green-700 rounded-xl"
                   >
-                    <Image src="./urat.png" width={150}
+                    <Image src="/urat.png" width={150}
                       height={150} alt="sakit urat dan sakit pinggang" />
                   </div>
                   <h3
